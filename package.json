@@ -1,0 +1,24 @@
+{
+  "name": "wba2-ss2017-hofmann",
+  "version": "0.0.1",
+  "description": "aufgabe1",
+  "main": "ReadJsonFile.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khofman1/wba2-ss2017-Hofmann.git"
+  },
+  "author": "Katharina Hofmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khofman1/wba2-ss2017-Hofmann/issues"
+  },
+  "homepage": "https://github.com/khofman1/wba2-ss2017-Hofmann#readme"
+}
